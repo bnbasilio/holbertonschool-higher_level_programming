@@ -14,4 +14,3 @@ if __name__ == "__main__":
         for element in argv:
             print("{:d}: {}".format(i, element))
             i += 1
-
