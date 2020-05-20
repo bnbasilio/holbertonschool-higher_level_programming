@@ -9,12 +9,10 @@ class Square:
         """initializes square"""
         self.__size = size
 
-    @getter
     def size(self):
         """gets the size of square"""
         return self.__size
 
-    @setter
     def size(self, value):
         """sets the size of square"""
         if type(value) != int:
