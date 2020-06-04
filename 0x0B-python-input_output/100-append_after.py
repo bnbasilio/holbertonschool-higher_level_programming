@@ -16,6 +16,6 @@ def append_after(filename="", search_string="", new_string=""):
             _list.insert(i + 1, new_string)
 
     with open(filename, 'w') as f:
-        nf.writelines(_list)
+        f.writelines(_list)
 
     return filename
