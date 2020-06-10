@@ -3,6 +3,7 @@
 from json import dumps, loads
 from os import path
 
+
 class Base():
     """base of all classes"""
     __nb_objects = 0
