@@ -30,5 +30,5 @@ class Base():
             objs = []
         else:
             objs = [obj.to_dictionary() for obj in list_objs]
-        with open(cls.__name__ + ".json", "w+") as f:
+        with open(cls.__name__ + ".json", 'w') as f:
             f.write(cls.to_json_string(objs))
