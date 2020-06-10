@@ -2,6 +2,7 @@
 """Base class"""
 from json import dumps, loads
 
+
 class Base():
     """base of all classes"""
     __nb_objects = 0
