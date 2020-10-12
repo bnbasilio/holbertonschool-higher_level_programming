@@ -45,6 +45,18 @@ What you should learn from this project:
 ### [6. How many completed?](./6-completed_tasks.js)
 * Write a script that computes the number of tasks completed by user id.
 
+
+### [7. Who was playing in this movie?](./100-starwars_characters.js)
+* Write a script that prints all characters of a Star Wars movie:
+
+
+### [8. Right order](./101-starwars_characters.js)
+* Write a script that prints all characters of a Star Wars movie:
+
+
+### [9. Twitter Auth](./102-search_twitter.js)
+* Write a Javascript script that takes in 3 strings and sends a search request to the Twitter API
+
 ---
 
 ## Author
